@@ -1,6 +1,6 @@
 # Maquetado de Pinterest
 
-Objetivo:  
+### Objetivo:  
 Crea una réplica de Pinterest con las imágenes que más te gusten :)
 
 ![Obejtivo](http://i64.tinypic.com/k3nfww.png)
