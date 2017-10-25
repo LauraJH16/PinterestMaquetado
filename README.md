@@ -8,3 +8,5 @@ Crea una réplica de Pinterest con las imágenes que más te gusten :)
 Utilize el tema de arte y mi resultado fue este:
 
 ![Resultado](http://i67.tinypic.com/2nsh0y.png)
+
+## Autora: Laura Jiménez
