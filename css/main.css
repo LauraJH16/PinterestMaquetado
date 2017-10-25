@@ -1,0 +1,199 @@
+body {
+	margin-top: 0;
+	margin-left: 0;
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	background-color: white;
+}
+
+.menu {
+	margin-left: 80px;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom:1px solid #d3d3d3;
+}
+
+h4,p {
+    margin:0;
+    padding: 0;
+}
+
+ul {
+	display: table;
+	margin: auto;
+	overflow: auto;
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	float: left;
+}
+
+.logo-pint {
+	background-color: #BD081C;
+	text-align: center;
+	font-size: 25px;
+	line-height: 40px;
+	width: 40px;
+	margin: 0 14px;
+	border-radius: 50%;
+}
+
+.logo-pint .color {
+    color: white;
+}
+
+.input-box {
+	padding: 10px;
+	margin: 0 16px;
+	border-radius: 5px;
+	background-color: #EFEFEF;
+}
+
+.fa-search {
+	margin-left: 40px;
+}
+
+input[type=text] {
+	border: none;
+	background-color: transparent;
+	color: #757575;
+	width: 718px;
+	height: 20px;
+	font-size: 18px;
+}
+
+
+input[type=text]:focus {
+	outline: none;
+	color: black;
+}
+
+.pins-box {
+	margin-left: 15px;
+	font-weight: bold;
+	font-size: 16px;
+	padding-right: 30px;
+}
+
+li div {
+	float: left;
+}
+
+.icons {
+	padding: 0 5px;
+	font-size: 21px;
+	width: 42.6px;
+	line-height: 42.6px;
+	text-align: center;
+}
+
+a {
+	cursor: pointer;
+	display: block;
+	text-decoration: none;
+	color: #B5B5B5;
+}
+
+.btn1, .btn2, .btn3, .btn5, .btn6, .btn7, .btn8, .btn9, .btn0 {
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	background-color: #903338;
+	border-radius: 5px;
+	line-height: 50px;
+	color: white;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+section {
+	column-count: 4;
+    column-gap: 1em;
+    padding: 145px 30px 145px 15px;
+}
+
+.btn1 {
+    background-image: url("../assets/images/fondo1.jpg");
+}
+
+.btn3 {
+    background-image: url("../assets/images/fondo2.jpg");
+}
+
+.btn5 {
+    background-image: url("../assets/images/fondo3.jpg")
+}
+
+.btn6 {
+    background-image: url("../assets/images/fondo6.jpg")
+}
+
+.btn7 {
+    background-image: url("../assets/images/fondo4.jpg")
+}
+
+.btn9 {
+    background-image: url("../assets/images/fondo7.jpg")
+}
+
+.btn0 {
+    background-image: url("../assets/images/fondo5.jpg")
+}
+
+.btn8 {
+    background-image: url("../assets/images/fondo8.jpg")
+}
+
+img {
+	max-width: 270px;
+	border-radius: 10px;
+	margin-right: 20px;
+	margin-top: 20px;
+	
+}
+
+img:hover {
+	cursor: pointer;
+}
+
+.initial-u {
+    color: white;
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 0px;
+    font-weight: bold;
+}
+  
+.date-u {
+    margin-top: 0;
+    padding: 2px;
+    margin-bottom: 0;
+}
+  
+.name-u {
+    margin-top: -22px;
+    margin-left: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 2000px;
+    background-color: #a75b60;
+    box-sizing: border-box;
+    padding-top: 6px;
+    margin-top: 0px;
+    margin-left: 13px;
+}
